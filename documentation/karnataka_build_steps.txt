@@ -1,0 +1,11 @@
+31 districts - https://en.wikipedia.org/wiki/List_of_districts_of_Karnataka
+
+31 DISTRICTS - https://lgdirectory.gov.in/globalviewdistrict.do
+	1 district is missing local language?
+	https://en.wikipedia.org/wiki/Vijayanagara_district
+	https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BF%E0%B2%9C%E0%B2%AF%E0%B2%A8%E0%B2%97%E0%B2%B0_%E0%B2%9C%E0%B2%BF%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B3%86
+
+1)plop points in districts - determine districts from public domain gis data (https://geonames.nga.mil/geonames/GNSData/India.zip) 
+1.5)Emailed the nga - notified them of the 12 districts they are missing.
+2)add all village points to district points. from there, begin to fanout to subdistrict or push directly to village (nga village/ pmgsy habitation)
+
